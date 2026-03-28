@@ -110,6 +110,7 @@ Libraries & Frameworks:
 - Three.js
 - Requests
 - Uvicorn
+- nest_asyncio
 
 Tools:
 - Google Colab
