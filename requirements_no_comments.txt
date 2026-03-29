@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+nest_asyncio
+
+Cloudflare Tunnel (deployment)
+GitHub Repository:
+https://github.com/show-yamato/orbital-debris-avoidance-and-constellation-management-system
